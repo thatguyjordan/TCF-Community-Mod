@@ -1,0 +1,12 @@
+{
+	"displayName": "Pink Glowstick Proj",
+	"size": [22, 6],
+	"aiStyle": 14,
+	"timeLeft": 60000,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"scale": 1.0,
+	"penetrate": 99999999,
+	"damage": 0
+}

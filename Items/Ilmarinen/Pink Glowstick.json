@@ -1,0 +1,28 @@
+{
+	"displayName": "Pink Glowstick",
+	"size": [16, 16],
+	"maxStack": 100,
+	"value": [0,0,0,2],
+	"consumable": true,
+	"rare": 1,
+	"useStyle": 1,
+	"useAnimation": 18,
+	"useTime": 18,
+	"damage": 0,
+	"useSound": 1,
+	"shoot": "tcfcomm:PGlowstickProj",
+	"shootSpeed": 7,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 100
+	},
+	{
+		"items": { "Glowstick": 15, "tcfcomm:Pink Gel": 1}, 
+		"tiles": [ "Solidifier" ], 
+		"creates": 15	
+	}]
+}

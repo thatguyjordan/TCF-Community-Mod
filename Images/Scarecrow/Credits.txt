@@ -1,0 +1,3 @@
+Scarecrow for: WallOfCake base texture, WallEyes and WallMouth (further adapted by nealpd); SkeleDowned, SkeleHandDowned, SkeleBoneDowned (created by myself but in Scarecrow's folder for consistency); EoC.
+
+DakotaSpine for: Original suggestion of skeletron rematch texture change

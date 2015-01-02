@@ -1,0 +1,28 @@
+{
+	"displayName": "Bouncy Grenade",
+	"size": [16, 22],
+	"maxStack": 100,
+	"value": [0,0,0,5],
+	"consumable": true,
+	"rare": 1,
+	"useStyle": 1,
+	"useAnimation": 20,
+	"useTime": 20,
+	"damage": 0,
+	"useSound": 1,
+	"shoot": "tcfcomm:BGrenadeProj",
+	"shootSpeed": 7,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 100
+	},
+	{
+		"items": { "Grenade": 5, "tcfcomm:Pink Gel": 1}, 
+		"tiles": [ "Anvil" ], 
+		"creates": 5	
+	}]
+}

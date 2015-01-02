@@ -1,0 +1,28 @@
+{
+	"displayName": "Bouncy Bomb",
+	"size": [22, 30],
+	"maxStack": 100,
+	"value": [0,0,0,5],
+	"consumable": true,
+	"rare": 1,
+	"useStyle": 1,
+	"useAnimation": 20,
+	"useTime": 20,
+	"damage": 0,
+	"useSound": 1,
+	"shoot": "tcfcomm:BBombProj",
+	"shootSpeed": 6,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 100
+	},
+	{
+		"items": { "Bomb": 5, "tcfcomm:Pink Gel": 1}, 
+		"tiles": [ "Anvil" ], 
+		"creates": 5
+	}]
+}

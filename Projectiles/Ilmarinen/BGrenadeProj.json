@@ -1,0 +1,12 @@
+{
+	"displayName": "Bouncy Grenade Proj",
+	"size": [16, 22],
+	"aiStyle": 0,
+	"timeLeft": 600,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"scale": 1.0,
+	"penetrate": -1,
+	"damage": 0
+}

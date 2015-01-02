@@ -1,0 +1,2 @@
+Fix grenades/bombs fire particles spawning
+Make glowstick float on water. Check if wet, if it returns true 

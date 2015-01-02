@@ -1,0 +1,12 @@
+{
+	"displayName": "Bouncy Bomb Proj",
+	"size": [22, 30],
+	"aiStyle": 8,
+	"timeLeft": 600,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"scale": 1.0,
+	"penetrate": 9999999,
+	"damage": 0
+}

@@ -1,0 +1,22 @@
+{
+	"displayName": "Pink Gel",
+	"size": [16, 14],
+	"maxStack": 999,
+	"value": [0,0,0,15],
+	"rare": 1,
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	
+	"recipes":
+	[{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 100
+	}//,
+	//{
+	//	"items": { "Bomb": 10, "tcfcomm:Pink Slime": 1}, 
+	//	"tiles": [ "Anvil" ], 
+	//	"creates": 10	
+	//}
+	]
+}
