@@ -1,0 +1,14 @@
+{
+	"code": "Sandstorm",
+	"displayName": "Sandstorm",
+	"size": [6, 6],
+	"aiStyle": 23,
+	"timeLeft": 1200,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"damage": 20,
+	"ranged": true,
+	"alpha": 255,
+	"pentrates": 6
+}

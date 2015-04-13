@@ -1,10 +1,12 @@
 Thanks to everyone that made this mod a possibility and an extra thanks to my sprite artists for my sticking by my side! 
 
 	nealpd for: Wall Of Cake adaptation, Nyan cat texture
-	Cireus for: 
 
 	Scarecrow for: EoC Texture, Wall Of Cake original texture, Skeletron rematch texture, misc items
 	DakotaSpine for: Skeletron rematch idea
 	DerpoTheMagnificent for: Bunny textures, misc items
 	Ilmarinen for: Pinky suggestions and textures
+
+
+	darfmorf for: pearlwood set bonus (modified by me; 10 defense and 1hp p/sec while in hallow). Pearlwood sword gets 32 dam while wearing pearwood armour in hallow. Bow gets 25 damage and 75% chance not to consume ammo while wearing pearlwood armour in hallow.
 
